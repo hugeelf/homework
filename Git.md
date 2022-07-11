@@ -62,3 +62,10 @@ doc/**/*.txt\
 ## Отправка изменений в удаленный репозиторий ##
 * git push origin master
 # Больше информации [Тут](https://git-scm.com/book) #
+
+## __Возможно подключение к Github__ ##
+
+
+* __git remote add origin [git@github.com: имя_пользователя/имя_репозитория.git]__
+
+_добавит _
